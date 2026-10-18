@@ -15,7 +15,7 @@ health-tech companies.
 || [JURISDICTION] | **Egypt** (incorporation). Target clients: Gulf, EU, USA. |
 | [RANKING SOURCE] | GSER (Startup Genome) + StartupBlink Global Startup Ecosystem Index. **Supporting activity only, not a year-1 target** |
 | Company domain | **Under construction** — owner will provide. Temporary: use personal GitHub for code. |
-| GitHub org/repo | **Owner has access, can create repos anytime.** Chandler to create `dulabx` org and first repo. |
+| GitHub org/repo | **Owner has access, can create repos anytime.** Chandler to create `dulabx` org and first repo. **LIVE: `SamerKharboush/dulabx` (personal account)** |
 
 ## Pricing
 
